@@ -1,2 +1,2 @@
-# EstSup
-Arquivos e scripts para o estágio supervisionado do ano letivo de 2021.
+# Dermoscopy picture analisis
+Files and script used for statistics analisys of dermoscopy pictures quality.
