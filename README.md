@@ -1,2 +1,3 @@
 # Dermoscopy picture analisis
-Files and script used for statistics analisys of dermoscopy pictures quality.
+Part of files and script used for statistics analisys of dermoscopy pictures categorization.
+Categories: Nevus and Meloma
